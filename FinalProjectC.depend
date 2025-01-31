@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1734712547 source:c:\users\thegenius\documents\finalprojectc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1734712547 source:c:\users\thegenius\documents\mostafa hosny farghaly mohammed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
